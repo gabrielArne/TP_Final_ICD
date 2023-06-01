@@ -1,4 +1,4 @@
-# TP_Final_ICD
+# TP Final ICD
 Trabajo práctico final de introducción a la ciencia de datos (ICD) de la Universidad Nacional de San Martín.
 ## Alumnos: 
 - Arnesano Gabriel Santiago
